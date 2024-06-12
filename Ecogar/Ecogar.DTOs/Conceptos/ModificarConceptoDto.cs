@@ -8,6 +8,6 @@ namespace Ecogar.DTOs.Conceptos
 {
     public class ModificarConceptoDto
     {
-        public required string Nombre { get; set; }
+        public string? Nombre { get; set; }
     }
 }

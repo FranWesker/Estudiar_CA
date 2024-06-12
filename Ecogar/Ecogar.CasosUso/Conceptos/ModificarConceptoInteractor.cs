@@ -49,6 +49,5 @@ namespace Ecogar.CasosUso.Conceptos
                 Nombre = conceptoDto.Nombre,
             };
         }
-
     }
 }

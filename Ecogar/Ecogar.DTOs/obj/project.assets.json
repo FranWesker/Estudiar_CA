@@ -174,34 +174,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\javie\\.nuget\\packages\\": {}
+    "/home/monica/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Trabajo\\Ecogar\\Ecogar.DTOs\\Ecogar.DTOs.csproj",
+      "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj",
       "projectName": "Ecogar.DTOs",
-      "projectPath": "E:\\Trabajo\\Ecogar\\Ecogar.DTOs\\Ecogar.DTOs.csproj",
-      "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
-      "outputPath": "E:\\Trabajo\\Ecogar\\Ecogar.DTOs\\obj\\",
+      "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj",
+      "packagesPath": "/home/monica/.nuget/packages/",
+      "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/monica/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Trabajo\\Ecogar\\Ecogar.Entidades\\Ecogar.Entidades.csproj": {
-              "projectPath": "E:\\Trabajo\\Ecogar\\Ecogar.Entidades\\Ecogar.Entidades.csproj"
+            "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj": {
+              "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj"
             }
           }
         }
@@ -236,7 +234,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,7 +10,7 @@ namespace Ecogar.DTOs.Conceptos
     public class ConceptoDto
     {
         public int Id { get; set; }
-        public required string Nombre { get; set; }
+        public string? Nombre { get; set; }
 
         public ConceptoDto() { }
 

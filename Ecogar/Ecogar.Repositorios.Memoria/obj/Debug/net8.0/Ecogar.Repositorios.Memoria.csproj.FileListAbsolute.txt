@@ -1,0 +1,16 @@
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/bin/Debug/net8.0/Ecogar.Repositorios.Memoria.deps.json
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/bin/Debug/net8.0/Ecogar.Repositorios.Memoria.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/bin/Debug/net8.0/Ecogar.Repositorios.Memoria.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/bin/Debug/net8.0/Ecogar.Entidades.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/bin/Debug/net8.0/Ecogar.Entidades.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.csproj.AssemblyReference.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.GeneratedMSBuildEditorConfig.editorconfig
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.AssemblyInfoInputs.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.AssemblyInfo.cs
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.csproj.CoreCompileInputs.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.sourcelink.json
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.R.2AE9A368.Up2Date
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/refint/Ecogar.Repositorios.Memoria.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/Ecogar.Repositorios.Memoria.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/Debug/net8.0/ref/Ecogar.Repositorios.Memoria.dll
