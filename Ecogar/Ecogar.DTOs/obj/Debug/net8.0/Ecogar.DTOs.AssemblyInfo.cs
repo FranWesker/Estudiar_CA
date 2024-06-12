@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecogar.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f93614a9a491307bc4a2c4a5cf88e59ad0c422e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfbaafabc9306328e618491b7e80cb5927b1ff40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecogar.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecogar.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

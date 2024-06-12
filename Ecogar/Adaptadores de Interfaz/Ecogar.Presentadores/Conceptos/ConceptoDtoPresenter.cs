@@ -9,7 +9,7 @@ public class ConceptoDtoPresenter :
     BorrarConceptoOutputPort,
     IPresentador<ConceptoDto>
 {
-    public ConceptoDto Contenido{get; private set;}
+    public ConceptoDto Contenido {get; private set;}
     public Task Ejecutar(ConceptoDto conceptoDto)
     {
         Contenido = conceptoDto;
