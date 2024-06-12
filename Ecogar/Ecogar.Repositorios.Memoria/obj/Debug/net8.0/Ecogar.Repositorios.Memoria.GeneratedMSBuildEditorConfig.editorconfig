@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecogar.Repositorios.Memoria
-build_property.ProjectDir = E:\Trabajo\Ecogar\Ecogar.Repositorios.Memoria\
+build_property.ProjectDir = /home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

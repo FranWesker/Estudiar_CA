@@ -1,0 +1,467 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Franmework y Drivers/Ecogar.IoC/Ecogar.IoC.csproj": {}
+  },
+  "projects": {
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Adaptadores de Interfaz/Ecogar.Presentadores/Ecogar.Presentadores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Adaptadores de Interfaz/Ecogar.Presentadores/Ecogar.Presentadores.csproj",
+        "projectName": "Ecogar.Presentadores",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Adaptadores de Interfaz/Ecogar.Presentadores/Ecogar.Presentadores.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Adaptadores de Interfaz/Ecogar.Presentadores/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.CasosUso/Ecogar.CasosUso.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.CasosUso/Ecogar.CasosUso.csproj",
+        "projectName": "Ecogar.CasosUso",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.CasosUso/Ecogar.CasosUso.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.CasosUso/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj"
+              },
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj",
+        "projectName": "Ecogar.DTOs",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj",
+        "projectName": "Ecogar.Entidades",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj",
+        "projectName": "Ecogar.Puertos",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/Ecogar.Puertos.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Puertos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/Ecogar.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/Ecogar.Repositorios.Memoria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/Ecogar.Repositorios.Memoria.csproj",
+        "projectName": "Ecogar.Repositorios.Memoria",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/Ecogar.Repositorios.Memoria.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/Ecogar.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/monica/FranDes/Estudiar_CA/Ecogar/Franmework y Drivers/Ecogar.IoC/Ecogar.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/monica/FranDes/Estudiar_CA/Ecogar/Franmework y Drivers/Ecogar.IoC/Ecogar.IoC.csproj",
+        "projectName": "Ecogar.IoC",
+        "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Franmework y Drivers/Ecogar.IoC/Ecogar.IoC.csproj",
+        "packagesPath": "/home/monica/.nuget/packages/",
+        "outputPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Franmework y Drivers/Ecogar.IoC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/monica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Adaptadores de Interfaz/Ecogar.Presentadores/Ecogar.Presentadores.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Adaptadores de Interfaz/Ecogar.Presentadores/Ecogar.Presentadores.csproj"
+              },
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.CasosUso/Ecogar.CasosUso.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.CasosUso/Ecogar.CasosUso.csproj"
+              },
+              "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/Ecogar.Repositorios.Memoria.csproj": {
+                "projectPath": "/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Repositorios.Memoria/Ecogar.Repositorios.Memoria.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

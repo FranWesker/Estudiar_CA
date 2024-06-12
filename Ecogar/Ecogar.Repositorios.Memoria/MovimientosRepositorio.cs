@@ -23,7 +23,7 @@ namespace Ecogar.Repositorios.Memoria
         public Movimiento Crear(Movimiento movimiento)
         {
             movimiento.Id = ++_idCounter;
-
+            _data.Add(movimiento);
             return movimiento;
         }
     }

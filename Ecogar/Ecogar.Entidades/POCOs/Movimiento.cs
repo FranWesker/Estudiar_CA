@@ -9,10 +9,10 @@ namespace Ecogar.Entidades.POCOs
     public class Movimiento
     {
         public int Id { get; set; }
-        public required Concepto Concepto { get; set; }
-        public required Cuenta Cuenta { get; set; }
+        public Concepto? Concepto { get; set; }
+        public Cuenta? Cuenta { get; set; }
         public float Importe { get; set; }
         public DateTime Fecha { get; set; }
-        public required string Descripcion { get; set; }
+        public string? Descripcion { get; set; }
     }
 }
