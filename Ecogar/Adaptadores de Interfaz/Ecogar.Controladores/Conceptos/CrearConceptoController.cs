@@ -7,7 +7,7 @@ namespace Ecogar.Controladores.Conceptos;
 
 [ApiController]
 [Route("/concepto")]
-public class CrearConceptoController
+public class CrearConceptoController : ControllerBase
 {
     private readonly CrearConceptoInputPort _inputPort;
     private readonly CrearConceptoOutputPort _outputPort;

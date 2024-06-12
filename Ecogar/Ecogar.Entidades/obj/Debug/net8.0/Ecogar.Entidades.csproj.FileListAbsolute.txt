@@ -1,0 +1,13 @@
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/bin/Debug/net8.0/Ecogar.Entidades.deps.json
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/bin/Debug/net8.0/Ecogar.Entidades.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/bin/Debug/net8.0/Ecogar.Entidades.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.csproj.AssemblyReference.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.AssemblyInfoInputs.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.AssemblyInfo.cs
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.csproj.CoreCompileInputs.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.sourcelink.json
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/refint/Ecogar.Entidades.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/Ecogar.Entidades.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.Entidades/obj/Debug/net8.0/ref/Ecogar.Entidades.dll

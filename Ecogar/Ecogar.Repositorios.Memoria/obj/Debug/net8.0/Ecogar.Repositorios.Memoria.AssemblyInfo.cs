@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecogar.Repositorios.Memoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f93614a9a491307bc4a2c4a5cf88e59ad0c422e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c23aebfa4d9f9512b38b8f6f53e212ed2bb2e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecogar.Repositorios.Memoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecogar.Repositorios.Memoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

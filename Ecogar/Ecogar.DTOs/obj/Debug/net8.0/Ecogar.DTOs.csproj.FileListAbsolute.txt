@@ -1,0 +1,16 @@
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/bin/Debug/net8.0/Ecogar.DTOs.deps.json
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/bin/Debug/net8.0/Ecogar.DTOs.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/bin/Debug/net8.0/Ecogar.DTOs.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/bin/Debug/net8.0/Ecogar.Entidades.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/bin/Debug/net8.0/Ecogar.Entidades.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.csproj.AssemblyReference.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.AssemblyInfoInputs.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.AssemblyInfo.cs
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.csproj.CoreCompileInputs.cache
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.sourcelink.json
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.D.9C09C44C.Up2Date
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/refint/Ecogar.DTOs.dll
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/Ecogar.DTOs.pdb
+/home/monica/FranDes/Estudiar_CA/Ecogar/Ecogar.DTOs/obj/Debug/net8.0/ref/Ecogar.DTOs.dll

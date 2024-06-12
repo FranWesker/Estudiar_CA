@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecogar.Controladores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfbaafabc9306328e618491b7e80cb5927b1ff40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c23aebfa4d9f9512b38b8f6f53e212ed2bb2e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecogar.Controladores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecogar.Controladores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
